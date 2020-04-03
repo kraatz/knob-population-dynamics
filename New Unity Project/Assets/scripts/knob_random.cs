@@ -37,7 +37,7 @@ public class knob_random : MonoBehaviour, IHealth
 
     public void takeDamage()
     {
-        hitPoints -= 1;
+        hitPoints -= 7;
         if (hitPoints <= 0)
             Destroy(gameObject);
     }
