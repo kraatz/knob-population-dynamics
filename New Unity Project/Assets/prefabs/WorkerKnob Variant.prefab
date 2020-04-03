@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2348998290970986429
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1847780803692698306, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.2688679
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803692698306, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.5381487
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803692698306, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803692698310, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Name
+      value: WorkerSprite
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323434, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323437, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Name
+      value: WorkerKnob Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323437, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_TagString
+      value: EnemyKnob
+      objectReference: {fileID: 0}
+    - target: {fileID: 1847780803851323446, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5973836983609920664, guid: f8bd6a844c7ccb74b85b8a5787564835,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1847780803851323433, guid: f8bd6a844c7ccb74b85b8a5787564835, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: f8bd6a844c7ccb74b85b8a5787564835, type: 3}
