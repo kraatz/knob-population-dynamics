@@ -25,7 +25,7 @@ public class factory : MonoBehaviour
             GameObject knobPrefab = gui.producedKnob;
             GameObject go = Instantiate(knobPrefab, gameObject.transform);
             go.transform.position = gameObject.transform.position;
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(.1f);
         }
     }
 
